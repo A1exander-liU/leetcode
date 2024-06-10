@@ -31,8 +31,10 @@ There are 2 ways here to get an area of 4
           #
 #         #  
 #     #   #
-# #   # # #
-# #   # # #
+# #   @ @ @
+# #   @ @ @
+Input: heights = [4,2,0,3,2,5]
+Output: 6
 ```
 what stack is like at start of each iteration
 for each height, we need to find the next and prev height that is smaller than it
