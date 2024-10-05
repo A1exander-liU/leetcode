@@ -19,3 +19,4 @@ class Solution:
                 current = 1
 
         return max(biggest, current) if len(nums) > 0 else 0
+
